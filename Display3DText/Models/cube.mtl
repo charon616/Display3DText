@@ -1,0 +1,5 @@
+newmtl mat1
+  Ka 0.60 0.00 0.00 #ambient
+  Kd 0.10 0.10 0.10 #diffuse
+  Ks 0.00 0.00 0.00 #specular
+  Ns 5.00 #shiness
